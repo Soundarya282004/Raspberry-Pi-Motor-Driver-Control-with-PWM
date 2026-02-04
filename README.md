@@ -35,11 +35,9 @@ main.py
 
 2️⃣ Connect Hardware
 
-ENA → GPIO 18
-
-IN1 → GPIO 23
-
-IN2 → GPIO 24
+- ENA → GPIO 18
+- IN1 → GPIO 23
+- IN2 → GPIO 24
 
 Motor connected to motor driver
 
