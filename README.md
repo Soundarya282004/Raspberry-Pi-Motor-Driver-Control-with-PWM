@@ -18,6 +18,8 @@ GPIO Pin	Connected To	Purpose
 GPIO 18	ENA	PWM Speed Control
 GPIO 23	IN1	Motor Direction
 GPIO 24	IN2	Motor Direction
+<img width="526" height="97" alt="image" src="https://github.com/user-attachments/assets/1ed34774-598e-41f7-9503-e43c506f8d86" />
+
 💻 Software Requirement
 
 RPi.GPIO library (usually preinstalled)
